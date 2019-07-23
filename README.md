@@ -12,3 +12,8 @@
 4. 검색 페이지
 5. 더보기 페이지
 6. 설정 페이지
+
+# 화면 보기
+
+https://hyunghilkim.github.io/kakao-clone/friends.html
+
